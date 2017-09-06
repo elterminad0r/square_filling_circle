@@ -27,7 +27,7 @@ void setup() {
   }
   background(255, 0, 0);
 
-  noStroke();
+  stroke(255);
   fill(255);
   if (draw_circle) {
     if (rotate) {
